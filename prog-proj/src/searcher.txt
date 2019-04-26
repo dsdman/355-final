@@ -1,4 +1,0 @@
-Build:
-
-Run:
-  python searcher.py

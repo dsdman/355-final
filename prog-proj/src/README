@@ -1,0 +1,6 @@
+WORKING:
+  invhom.py and invhom.txt (Inverse Homomorphism)
+  simulator.py and simulator.txt (DFA simulator)
+
+PARTIALLY WORKING:
+  minimizer.py and minimizer.txt (DFA minimization)
